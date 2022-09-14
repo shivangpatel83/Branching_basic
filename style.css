@@ -1,0 +1,9 @@
+div{
+    background-color:rgb(213, 137, 44);
+    border: 5px solid red;
+    text-align: center;
+}
+
+div h1{
+    color: white;
+}
